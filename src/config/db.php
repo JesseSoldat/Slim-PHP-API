@@ -3,7 +3,9 @@
 		//Properties
 		private $dbhost = 'localhost';
 		private $dbuser = 'root';
-		private $dbpass = '';
+		private $dbpass = '9Rnhahu64DecFrKA';
+		// private $dbpass = 'ichiban777';
+
 		private $dbname = 'slimapp';
 
 		//Connect
